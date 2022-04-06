@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @notvss
+- 👀 I’m interested in pretty much anything
+- 🌱 I’m currently learning javascript
+- 📫 reach me at notvsszm@gmail.com
